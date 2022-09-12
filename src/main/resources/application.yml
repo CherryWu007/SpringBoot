@@ -1,0 +1,12 @@
+server:
+  port: 2333
+  servlet:
+    context-path: /java
+
+
+# 用户自定义
+# yml文件冒号后要加一个空格才能生效
+
+spring:
+  resources:
+    static-locations:
